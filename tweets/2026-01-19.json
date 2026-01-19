@@ -1,6 +1,912 @@
 [
   {
     "user": {
+      "screenName": "zaobaosg",
+      "name": "联合早报 Lianhe Zaobao",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1699090259018240000/QploqfS9_normal.jpg",
+      "description": "《联合早报》网站和应用是新报业媒体有限公司属下的中文新闻与资讯平台。以第三只眼看大中华，客观新闻和深度评析是众多亚太区读者的最爱。📲：https://t.co/kHH36Edj4y",
+      "followersCount": 1723046,
+      "friendsCount": 5,
+      "location": "Singapore"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/zaobaosg/status/2013157295245447482",
+    "fullText": "香港金融管理局发布报告，提出货运贸易数据互联项目，协助中小企业融资。 https://t.co/dP7B4TSWVi"
+  },
+  {
+    "user": {
+      "screenName": "Jqiuss",
+      "name": "Jqiuss☆✨",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1846980175139164163/Sh-RaSjA_normal.jpg",
+      "description": "学习学习再学习📑。副业：投资交易，吃喝玩乐，..♩`♪♫`♬~~☘️🍀🌟\n会员订阅 or 会员交流群 PM/私信。https://t.co/gnvLw3yrRS | 其他地方冒充 #Jqiuss 的谨慎。没有免费群，仅有订阅会员交流群。",
+      "followersCount": 17081,
+      "friendsCount": 2833,
+      "location": "Canton & HK"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Jqiuss/status/2013157262328828365",
+    "fullText": "【截至1月19日国内纯碱厂家总库存154.42万吨，较上周四下降3.08万吨】\n\n金十期货1月19日讯，截止到2026年1月19日，本周，国内纯碱厂家总库存154.42万吨，较上周四下降3.08万吨，降幅1.96%。\n\n其中，轻质纯碱82.26万吨，环比下降1.44万吨，重质纯碱72.16万吨，环比下降1.64万吨。\n(来自金十期货APP)"
+  },
+  {
+    "user": {
+      "screenName": "nexta_tv",
+      "name": "NEXTA",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1514923008707768321/hL4PN7Hf_normal.jpg",
+      "description": "The largest Eastern European media. To let the world know.\n\nOur website: https://t.co/4voPija7tJ\nBecome our patron: https://t.co/fOGkarNq2c",
+      "followersCount": 1288879,
+      "friendsCount": 222,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_Ar1gKWUAEnaaP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nexta_tv/status/2013157238311956930",
+    "fullText": "Flying coffins for Russians: authorities are bringing old aircraft back into service despite wear and tear\n\nIn 2026–2027, Russian airlines will receive aircraft taken out of storage in order to cope with growing passenger traffic.\n\nThe plan involves 12 planes: nine Tu-204/214s, https://t.co/t1cW9hy0VN"
+  },
+  {
+    "user": {
+      "screenName": "WSJ",
+      "name": "The Wall Street Journal",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/971415515754266624/zCX0q9d5_normal.jpg",
+      "description": "Sign up for our newsletters and alerts: https://t.co/QevH0DLQi8 | Got a tip? https://t.co/iXIigdPjEZ | For WSJ customer support: https://t.co/DZgH9n53qg",
+      "followersCount": 20570443,
+      "friendsCount": 1061,
+      "location": "New York, NY"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_ArO53XIAA4lca.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/WSJ/status/2013156576752758889",
+    "fullText": "MAGA influencers are turning access to the White House into lucrative new businesses. 🔗 https://t.co/MAlRS9E0QO https://t.co/z6hC2pqFo2"
+  },
+  {
+    "user": {
+      "screenName": "SimonJP404",
+      "name": "Simon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1359332433112436736/Ua21bLy6_normal.jpg",
+      "description": "📷 Photographer | Writer | 🗼Live in Tokyo | Crypto | Digital Media | ✍️ https://t.co/1wDezdZIPK | 🌏全日本制霸| 📧 商务联系DM",
+      "followersCount": 9983,
+      "friendsCount": 673,
+      "location": "Tokyo-to, Japan"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_Aq6_iXIAAD7u8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/SimonJP404/status/2013156240789299531",
+    "fullText": "来点“急冻西兰花”🥦 https://t.co/rBnd2GzLp6"
+  },
+  {
+    "user": {
+      "screenName": "CNBC",
+      "name": "CNBC",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1999829242431811587/iTRuu0Me_normal.jpg",
+      "description": "First in business worldwide.",
+      "followersCount": 5428554,
+      "friendsCount": 824,
+      "location": "Englewood Cliffs, NJ"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/CNBC/status/2013155057508696557",
+    "fullText": "CNBC Daily Open: The EU prepares to respond to Trump's Greenland tariffs https://t.co/AV69h7XTi7"
+  },
+  {
+    "user": {
+      "screenName": "fxtrader",
+      "name": "外汇交易员",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1230373331724947458/8LlXOtfV_normal.jpg",
+      "description": "盯紧市场，把握时机。理性客观，利益永恒。",
+      "followersCount": 376242,
+      "friendsCount": 485,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2013151824082026496/vid/avc1/1920x1080/ABq1hs-7khWCsu3c.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/fxtrader/status/2013154926671659100",
+    "fullText": "扣子（Coze）宣布更新2.0，推出Skill（技能）、长期计划任务和技能商店（变现交易）。\nSkill可以理解为将个人经验封装成技能，让AI以固定方法论进行输出。以前的用法是用Prompt指挥AI去用专家的视角输出结果，而Skill让AI学会技能，再复用这一能力。而技能商店则提供经验和技能产生货币收益的途径。 https://t.co/d1ktW8pffa"
+  },
+  {
+    "user": {
+      "screenName": "zaobaosg",
+      "name": "联合早报 Lianhe Zaobao",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1699090259018240000/QploqfS9_normal.jpg",
+      "description": "《联合早报》网站和应用是新报业媒体有限公司属下的中文新闻与资讯平台。以第三只眼看大中华，客观新闻和深度评析是众多亚太区读者的最爱。📲：https://t.co/kHH36Edj4y",
+      "followersCount": 1723046,
+      "friendsCount": 5,
+      "location": "Singapore"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/zaobaosg/status/2013154754768052238",
+    "fullText": "印度西北部克什米尔地区星期一（1月19日）发生6级地震。 https://t.co/ei2gYlj5Xd"
+  },
+  {
+    "user": {
+      "screenName": "TheEconomist",
+      "name": "The Economist",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1847280770743750656/0DkLNOPG_normal.jpg",
+      "description": "News and analysis with a global perspective. We’re here to help you understand the world around you. Subscribe here: https://t.co/RpUQAAnhog",
+      "followersCount": 25783802,
+      "friendsCount": 150,
+      "location": "London"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheEconomist/status/2013154477084209415",
+    "fullText": "Symptoms include a flagging libido, tiredness, shrinking muscles and growing body fat https://t.co/nkhFkxaxwo"
+  },
+  {
+    "user": {
+      "screenName": "MSX_CN",
+      "name": "麦通MSX",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1911366585056448512/hWvUlDOK_normal.jpg",
+      "description": "MSX 华语官方账号。MSX 是领先的去中心化 RWA 交易平台 https://t.co/zteOFuAh4r",
+      "followersCount": 36871,
+      "friendsCount": 24,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_AmE30WIAA9Aq6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MSX_CN/status/2013154050813092048",
+    "fullText": "市场麦麦报｜1.12 - 1.16 周报速递 📊\n\nAI 与太空板块逆势突围，宏观迷雾笼罩大盘 🚀\n\n本周值得关注的有：\n🗓 周一：美股休市（马丁·路德·金纪念日）\n🎤 大事件：达沃斯论坛开启，关注特朗普最新讲话\n💰 财报周：NFLX、INTC 即将放榜\n\n#麦通 #MSX #市场麦麦报 #周报速递 https://t.co/1G3Mxde7Qe"
+  },
+  {
+    "user": {
+      "screenName": "WSJ",
+      "name": "The Wall Street Journal",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/971415515754266624/zCX0q9d5_normal.jpg",
+      "description": "Sign up for our newsletters and alerts: https://t.co/QevH0DLQi8 | Got a tip? https://t.co/iXIigdPjEZ | For WSJ customer support: https://t.co/DZgH9n53qg",
+      "followersCount": 20570443,
+      "friendsCount": 1061,
+      "location": "New York, NY"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_AopftWMAAatxn.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/WSJ/status/2013153738475593744",
+    "fullText": "Successful teams aren’t necessarily about star talent, but more often depend on “Glue” employees—the quiet leaders who make everybody else look good and rarely get rewarded for their contributions.\n\n🔗: https://t.co/oMoDywoV7z https://t.co/QLcTq9qLJh"
+  },
+  {
+    "user": {
+      "screenName": "XHNews",
+      "name": "China Xinhua News",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1246686019241398274/swhowkA5_normal.jpg",
+      "description": "Public media for public good. We don't pursue corporate interests, nor yield to pressure of ideological stigmatization and political bias\nOur App: https://t.co/uYjoablw4w",
+      "followersCount": 11390668,
+      "friendsCount": 79,
+      "location": "Headquartered in Beijing, PRC"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_Aoi8qbwAAOT3V.jpg",
+      "https://pbs.twimg.com/media/G_AojH_bgAEl4Mg.jpg",
+      "https://pbs.twimg.com/media/G_AojYKaMAACp26.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/XHNews/status/2013153628157296681",
+    "fullText": "China's Shenzhou-20 return capsule, carrying no astronauts, touched down on Earth on Monday. On-site inspections confirmed that the return capsule's overall appearance was normal and items inside were in good condition. Read update: https://t.co/Zeo2QPBuOa https://t.co/1pY09xRxuo"
+  },
+  {
+    "user": {
+      "screenName": "wangzhian8848",
+      "name": "王局志安",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1527433965824802816/PgXCsVL6_normal.jpg",
+      "description": "调查记者，主持人。油管频道地址：https://t.co/WfO3vZ0ygY?amp=1，Facebook地址：https://t.co/QO4mprdzUL，TikTok地址：https://t.co/chl5sh7Cfa",
+      "followersCount": 1475615,
+      "friendsCount": 650,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wangzhian8848/status/2013153436016230539",
+    "fullText": "2025年出生婴儿792万，生育率已经跌破了1，跌到0.98。感觉过去一年的刺激生育的补贴政策，并没有发挥作用。\n\n不过国外的研究显示，单纯补贴对生育率提高效果非常有限。"
+  },
+  {
+    "user": {
+      "screenName": "Forbes",
+      "name": "Forbes",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1711185897415180288/lgwajQTW_normal.jpg",
+      "description": "Sign up now for Forbes' free daily newsletter for unmatched insights and exclusive reporting: https://t.co/v3UAa9BzAT",
+      "followersCount": 20267964,
+      "friendsCount": 4622,
+      "location": "New York, NY"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_AoL8tWsAAYrdm.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Forbes/status/2013153220701347939",
+    "fullText": "CBS Airs ‘60 Minutes’ Segment On Deported Migrants That Was ‘Spiked’ Last Month\nhttps://t.co/7brEnP2bUw https://t.co/3ZF5nhCIIT"
+  },
+  {
+    "user": {
+      "screenName": "zaobaosg",
+      "name": "联合早报 Lianhe Zaobao",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1699090259018240000/QploqfS9_normal.jpg",
+      "description": "《联合早报》网站和应用是新报业媒体有限公司属下的中文新闻与资讯平台。以第三只眼看大中华，客观新闻和深度评析是众多亚太区读者的最爱。📲：https://t.co/kHH36Edj4y",
+      "followersCount": 1723046,
+      "friendsCount": 5,
+      "location": "Singapore"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/zaobaosg/status/2013152700200837448",
+    "fullText": "中国一个组织呼吁日本政府，早日返还被指非法运至日本的唐鸿胪井碑。 https://t.co/RYjSaAgmsE"
+  },
+  {
+    "user": {
+      "screenName": "Forbes",
+      "name": "Forbes",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1711185897415180288/lgwajQTW_normal.jpg",
+      "description": "Sign up now for Forbes' free daily newsletter for unmatched insights and exclusive reporting: https://t.co/v3UAa9BzAT",
+      "followersCount": 20267964,
+      "friendsCount": 4622,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2013151951819886592/vid/avc1/720x900/4UT3dOsTXZ69DDdx.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/Forbes/status/2013152002667340162",
+    "fullText": ".@CocoGauff faced sky-high expectations almost from the moment she picked up a racket, but the world’s highest-paid female athlete has aced every test—and now she’s thinking even bigger. https://t.co/Jt4Jd9Us0b\n\n📸: Guerin Blask for Forbes\n#ForbesUnder30 https://t.co/sEii0GRJI2"
+  },
+  {
+    "user": {
+      "screenName": "mashable",
+      "name": "Mashable",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1674926582698242050/lSxXf3Me_normal.jpg",
+      "description": "Mashable is for superfans. We're not for the casually curious. Obsess with us.\n\nWe may earn affiliate commissions from products linked below.",
+      "followersCount": 8192877,
+      "friendsCount": 2534,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/mashable/status/2013151968789770260",
+    "fullText": "Build you own Pikachu, Charmander, and Meowth. https://t.co/NZZamc4Njm"
+  },
+  {
+    "user": {
+      "screenName": "ChineseWSJ",
+      "name": "华尔街日报中文网",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1037219311130234880/KXlUBc9N_normal.jpg",
+      "description": "感谢您关注华尔街日报中文网。我们有上千位专业记者与资深编辑遍布全球，为读者提供24小时最可靠、即时和深入的市场动向，政商时事，科技趋势和前沿思潮。欢迎阅读并分享见解。\n\n尽管全球局势瞬息万变，可靠的信息来源仍能助您洞悉全局，运筹帷幄。前往https://t.co/Ay39I3A0HH成为会员，尽享赢得全球核心决策者信赖的独到见解和深入分析。",
+      "followersCount": 3280488,
+      "friendsCount": 498,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ChineseWSJ/status/2013151963282657428",
+    "fullText": "美国军方官员曾准备于上周三对伊朗发动打击，但总统收到建议称，此举可能引发旷日持久的中东冲突。据报道，尽管特朗普多次表示美国将支持这场被一些人称为伊朗新革命的运动，但他已获悉政权更迭的前景十分渺茫。https://t.co/2k8bcoReWa"
+  },
+  {
+    "user": {
+      "screenName": "whyyoutouzhele",
+      "name": "李老师不是你老师",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+      "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+      "followersCount": 2184617,
+      "friendsCount": 1004,
+      "location": "偷乐星球"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G-_sGoPWEAARo71.jpg",
+      "https://pbs.twimg.com/media/G-_sGoQXMAA3mev.jpg",
+      "https://pbs.twimg.com/media/G-_sGoJXQAAXjm8.jpg"
+    ],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2013087123264421888/vid/avc1/1280x720/HdnSaNg4k3ruPSgg.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/whyyoutouzhele/status/2013151941946224666",
+    "fullText": "网友投稿：临近年关，陕西工业职业技术大学经开校区门口聚集了大量工人，索要此前参与新校区建设工程的相关工程款。 https://t.co/Z9vZkoNCGn"
+  },
+  {
+    "user": {
+      "screenName": "XinhuaChinese",
+      "name": "New China 中文",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1246626970172940296/bd30DC_p_normal.jpg",
+      "description": "這裡既嚴肃，又輕松；\n既自然，又人文；\n既為你梳理中國發展，也為你关注世界動態；\n時事、觀點、視野、娱樂俱全。\n了解中國和世界新聞，新華社中文賬號請您收好。",
+      "followersCount": 1313702,
+      "friendsCount": 70,
+      "location": "Beijing"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2013151697951170560/pu/vid/avc1/540x960/ZPk_yMT-XCCvIU6d.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/XinhuaChinese/status/2013151754209357932",
+    "fullText": "被00后小伙表演川剧喷火燃到了！\n近日，00后小伙展示川剧喷火。网友：这一口下去，传统技艺的滚烫具象化了！ https://t.co/tw0NfGBeFL"
+  },
+  {
+    "user": {
+      "screenName": "nexta_tv",
+      "name": "NEXTA",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1514923008707768321/hL4PN7Hf_normal.jpg",
+      "description": "The largest Eastern European media. To let the world know.\n\nOur website: https://t.co/4voPija7tJ\nBecome our patron: https://t.co/fOGkarNq2c",
+      "followersCount": 1288879,
+      "friendsCount": 222,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2013150974123069441/vid/avc1/720x880/UxuUmX4qt5UVX0ya.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/nexta_tv/status/2013151642363777513",
+    "fullText": "Footage of the famous Louvre robbery shown in France for the first time\n\nThe entire operation took less than four minutes.\n\nPrecise movements, minimal noise, and a rapid getaway — that’s how the criminals managed to pull off one of the most famous heists in history. https://t.co/0GBTYVWDvQ"
+  },
+  {
+    "user": {
+      "screenName": "WSJ",
+      "name": "The Wall Street Journal",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/971415515754266624/zCX0q9d5_normal.jpg",
+      "description": "Sign up for our newsletters and alerts: https://t.co/QevH0DLQi8 | Got a tip? https://t.co/iXIigdPjEZ | For WSJ customer support: https://t.co/DZgH9n53qg",
+      "followersCount": 20570443,
+      "friendsCount": 1061,
+      "location": "New York, NY"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_AmJXGWYAAwyT3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/WSJ/status/2013150985309303181",
+    "fullText": "Long-haul flights in economy class take a toll. To make your next flight less of a sufferfest, we tapped some frequent economy-class fliers for tips on making the back of the plane more tolerable—or even luxurious.\n\n🔗: https://t.co/bMeCXCbsQO https://t.co/m4cbLVatSd"
+  },
+  {
+    "user": {
+      "screenName": "FTChinese",
+      "name": "FTChinese",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1804103128167649280/LpoN3YgB_normal.jpg",
+      "description": "FT中文网是英国《金融时报》集团旗下唯一的中文商业财经网站，旨在为中国商业菁英和决策者们提供每日不可或缺的商业财经新闻、深度分析以及评论。",
+      "followersCount": 706748,
+      "friendsCount": 109,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_Al2wSXwAA-qH3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/FTChinese/status/2013150684158271856",
+    "fullText": "#策马新程开年大促 特斯拉与中国企业的电池竞争、金价能否延续暴涨、特朗普外交与第二任期走向、AI债务繁荣风险、“AI教母”李飞飞揭秘空间智能……科技、金融、地缘焦点等议题FT中文网全覆盖，依托全球内容团队拆解问题核心。会员大促正在进行，限时抢订，解锁权威分析&gt;&gt;https://t.co/eyDdRuhIKw https://t.co/W2VCaYPM7C"
+  },
+  {
+    "user": {
+      "screenName": "caixin",
+      "name": "Caixin Global",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1442068200351436803/VY9YU490_normal.jpg",
+      "description": "Award-winning journalism from China's most respected newsroom.  App: https://t.co/uEreAUxHbr",
+      "followersCount": 89087,
+      "friendsCount": 79,
+      "location": "Beijing"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/caixin/status/2013150218074648730",
+    "fullText": "Canada will allow up to 49,000 Chinese EVs to enter its market annually at the most-favored-nation tariff rate of 6.1%, signaling a reset in its relationship with Beijing. https://t.co/v00gV8lMe6"
+  },
+  {
+    "user": {
+      "screenName": "TheEconomist",
+      "name": "The Economist",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1847280770743750656/0DkLNOPG_normal.jpg",
+      "description": "News and analysis with a global perspective. We’re here to help you understand the world around you. Subscribe here: https://t.co/RpUQAAnhog",
+      "followersCount": 25783802,
+      "friendsCount": 150,
+      "location": "London"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheEconomist/status/2013149441415430546",
+    "fullText": "What happens next in the Yellow Sea will speak volumes about China’s true intentions towards South Korea https://t.co/2DjFnIHjJn"
+  },
+  {
+    "user": {
+      "screenName": "jack19980507",
+      "name": "90后Jack",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1991455468502605824/c2saZeuP_normal.jpg",
+      "description": "90后Jack | 记录A股日常 | 仅个人观点 | 投资需谨慎\n\n师傅 @Stock_Tutor_Hen",
+      "followersCount": 3441,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_AkgB8XwAIUCRG.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/jack19980507/status/2013149186150060515",
+    "fullText": "从10w到10y的记录\n\n01月19日周一收盘：卖完之后就涨停了，等明天追进去然后又跌停，呵呵，交易，真的在把人往死里面整，看不懂的行情，我空仓总可以了吧\n\n仅个人复盘吐槽，不构成任何操作建议，投资有风险，需谨慎。\n\n#A股 #复盘 #交易笔记 #股市日常 #今日持仓 https://t.co/hXqhqBp8Vz"
+  },
+  {
+    "user": {
+      "screenName": "bbcchinese",
+      "name": "BBC News 中文",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1004638591308435457/tiacF_Yg_normal.jpg",
+      "description": "This is the official account of BBC News Chinese, the @BBC's Chinese language news service. 这是 BBC News 中文 的正式账户。",
+      "followersCount": 5189741,
+      "friendsCount": 73,
+      "location": "London, UK"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2013147659041652736/vid/avc1/608x1080/B6hCIsFP5XRQFmVM.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/bbcchinese/status/2013148138488709281",
+    "fullText": "美国总统特朗普（Donald Trump）表示，美国需要“拥有”格陵兰，以防止俄罗斯和中国取得控制权。他还威胁，将对不配合其企图的欧洲八国加征关税。\n\n丹麦首相佛瑞德里克森（Mette Frederiksen）则表示，欧洲不会被关税威胁所“勒索”。\n\nBBC欧洲事务主编阿德勒（Katya https://t.co/DapXoJZ1xT"
+  },
+  {
+    "user": {
+      "screenName": "zaobaosg",
+      "name": "联合早报 Lianhe Zaobao",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1699090259018240000/QploqfS9_normal.jpg",
+      "description": "《联合早报》网站和应用是新报业媒体有限公司属下的中文新闻与资讯平台。以第三只眼看大中华，客观新闻和深度评析是众多亚太区读者的最爱。📲：https://t.co/kHH36Edj4y",
+      "followersCount": 1723046,
+      "friendsCount": 5,
+      "location": "Singapore"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/zaobaosg/status/2013148095941329281",
+    "fullText": "乌克兰谈判代表团团长、乌国家安全与国防委员会秘书乌梅罗夫星期天（1月18日）在社交媒体发文说，乌美谈判团队同意在瑞士达沃斯举行的世界经济论坛2026年年会期间，就美国对乌安全保障协议和乌经济繁荣协议进行磋商。 https://t.co/h2Hi47oKS1"
+  },
+  {
+    "user": {
+      "screenName": "BBCWorld",
+      "name": "BBC News (World)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1529107170448523264/q3VwEx38_normal.jpg",
+      "description": "News, features and analysis from the World's newsroom. Breaking news, follow @BBCBreaking. UK news, @BBCNews. Latest sports news @BBCSport",
+      "followersCount": 41307267,
+      "friendsCount": 17,
+      "location": "London, UK"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/BBCWorld/status/2013148056061882492",
+    "fullText": "China's population falls for fourth straight year https://t.co/h0IZYSn6Od"
+  },
+  {
+    "user": {
+      "screenName": "WSJ",
+      "name": "The Wall Street Journal",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/971415515754266624/zCX0q9d5_normal.jpg",
+      "description": "Sign up for our newsletters and alerts: https://t.co/QevH0DLQi8 | Got a tip? https://t.co/iXIigdPjEZ | For WSJ customer support: https://t.co/DZgH9n53qg",
+      "followersCount": 20570443,
+      "friendsCount": 1061,
+      "location": "New York, NY"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_AjVgxXQAArmWv.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/WSJ/status/2013147893163573642",
+    "fullText": "Want guac in your burrito bowl or extra legroom on your flight? The 0.01% rule: a low-stress way to think about how you spend your money.\n\n🔗: https://t.co/WWLYJ9rXlE https://t.co/ZHQRo3rJyX"
+  },
+  {
+    "user": {
+      "screenName": "XHNews",
+      "name": "China Xinhua News",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1246686019241398274/swhowkA5_normal.jpg",
+      "description": "Public media for public good. We don't pursue corporate interests, nor yield to pressure of ideological stigmatization and political bias\nOur App: https://t.co/uYjoablw4w",
+      "followersCount": 11390668,
+      "friendsCount": 79,
+      "location": "Headquartered in Beijing, PRC"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_AjGo5bAAA0ZPW.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/XHNews/status/2013147634052288758",
+    "fullText": "Death toll from shopping mall fire in Pakistan's southern port city of Karachi rises to 14 on Monday morning after rescue teams recover more bodies during search operation, officials say https://t.co/zaRm320KPQ https://t.co/AnpHXjmkBr"
+  },
+  {
+    "user": {
+      "screenName": "wangzhian8848",
+      "name": "王局志安",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1527433965824802816/PgXCsVL6_normal.jpg",
+      "description": "调查记者，主持人。油管频道地址：https://t.co/WfO3vZ0ygY?amp=1，Facebook地址：https://t.co/QO4mprdzUL，TikTok地址：https://t.co/chl5sh7Cfa",
+      "followersCount": 1475615,
+      "friendsCount": 650,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wangzhian8848/status/2013147571389186249",
+    "fullText": "最近有啥新闻值得聊聊？"
+  },
+  {
+    "user": {
+      "screenName": "BBCWorld",
+      "name": "BBC News (World)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1529107170448523264/q3VwEx38_normal.jpg",
+      "description": "News, features and analysis from the World's newsroom. Breaking news, follow @BBCBreaking. UK news, @BBCNews. Latest sports news @BBCSport",
+      "followersCount": 41307267,
+      "friendsCount": 17,
+      "location": "London, UK"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/BBCWorld/status/2013146939257225678",
+    "fullText": "Japan PM Takaichi set to call snap election https://t.co/xiP5j7YVyQ"
+  },
+  {
+    "user": {
+      "screenName": "BBCBreaking",
+      "name": "BBC Breaking News",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1150716997254209536/M7gkjsv5_normal.jpg",
+      "description": "Breaking news alerts and updates from the BBC. For news, features, analysis follow @BBCWorld (international) or @BBCNews (UK). Latest sport news @BBCSport.",
+      "followersCount": 49550981,
+      "friendsCount": 3,
+      "location": "London, UK"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/BBCBreaking/status/2013146491217392115",
+    "fullText": "Number killed in high-speed train crash in Spain rises to at least 39, officials say https://t.co/jqOrN1dGCd"
+  },
+  {
+    "user": {
+      "screenName": "XHNews",
+      "name": "China Xinhua News",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1246686019241398274/swhowkA5_normal.jpg",
+      "description": "Public media for public good. We don't pursue corporate interests, nor yield to pressure of ideological stigmatization and political bias\nOur App: https://t.co/uYjoablw4w",
+      "followersCount": 11390668,
+      "friendsCount": 79,
+      "location": "Headquartered in Beijing, PRC"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2013146220060090368/pu/vid/avc1/720x960/6QGxgV0huOXkw-HV.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/XHNews/status/2013146326356443224",
+    "fullText": "The return capsule of the Shenzhou-20 spaceship touched down in north China's Inner Mongolia Autonomous Region on Monday morning. Xinhua brings the latest from the Dongfeng landing site. #Shenzhou #spaceship https://t.co/2tR0MsThZy"
+  },
+  {
+    "user": {
+      "screenName": "fxtrader",
+      "name": "外汇交易员",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1230373331724947458/8LlXOtfV_normal.jpg",
+      "description": "盯紧市场，把握时机。理性客观，利益永恒。",
+      "followersCount": 376242,
+      "friendsCount": 485,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/fxtrader/status/2013146098706325782",
+    "fullText": "https://t.co/B0R35MrAJa"
+  },
+  {
+    "user": {
+      "screenName": "Forbes",
+      "name": "Forbes",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1711185897415180288/lgwajQTW_normal.jpg",
+      "description": "Sign up now for Forbes' free daily newsletter for unmatched insights and exclusive reporting: https://t.co/v3UAa9BzAT",
+      "followersCount": 20267964,
+      "friendsCount": 4622,
+      "location": "New York, NY"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_AhUfmWIAE--NT.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Forbes/status/2013145670660640788",
+    "fullText": "See Saturn And ‘Da Vinci Glow’ On The Moon: The Night Sky This Week\nhttps://t.co/r6VeEcRuak https://t.co/UBEnu7Yjbn"
+  },
+  {
+    "user": {
+      "screenName": "InfoQ",
+      "name": "InfoQ",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1514212711797825541/jlGPZt1D_normal.png",
+      "description": "Helping dev teams adopt new technologies and practices for 18 years. Written by software engineers. Read by over 1.5 m devs worldwide.\n\nhttps://t.co/l4flQmvaw2",
+      "followersCount": 57223,
+      "friendsCount": 1417,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/InfoQ/status/2013145313562050798",
+    "fullText": "Docker’s Cagent Brings Deterministic Testing to AI Agents https://t.co/27ikaHGxsO by Matt Foster"
+  },
+  {
+    "user": {
+      "screenName": "WSJ",
+      "name": "The Wall Street Journal",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/971415515754266624/zCX0q9d5_normal.jpg",
+      "description": "Sign up for our newsletters and alerts: https://t.co/QevH0DLQi8 | Got a tip? https://t.co/iXIigdPjEZ | For WSJ customer support: https://t.co/DZgH9n53qg",
+      "followersCount": 20570443,
+      "friendsCount": 1061,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/WSJ/status/2013145230195691972",
+    "fullText": "The Boise, Idaho-based company plans to acquire the Taiwanese chip-making site to meet surging demand for memory-storage products. https://t.co/ZIFQmS2R3X"
+  },
+  {
+    "user": {
+      "screenName": "whyyoutouzhele",
+      "name": "李老师不是你老师",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+      "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+      "followersCount": 2184617,
+      "friendsCount": 1004,
+      "location": "偷乐星球"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2012920834956873728/vid/avc1/576x992/wUT2H9xWFOlLozR5.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/whyyoutouzhele/status/2013144520972747139",
+    "fullText": "1月18日，山东省菏泽市，有网友拍到路政工作人员“作秀式”铲雪：一人站在皮卡车斗上作业，另一人用手机在不远处拍摄记录。 https://t.co/8VgAORXTHV"
+  },
+  {
+    "user": {
+      "screenName": "Forbes",
+      "name": "Forbes",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1711185897415180288/lgwajQTW_normal.jpg",
+      "description": "Sign up now for Forbes' free daily newsletter for unmatched insights and exclusive reporting: https://t.co/v3UAa9BzAT",
+      "followersCount": 20267964,
+      "friendsCount": 4622,
+      "location": "New York, NY"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_AgK21bIAALK5A.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Forbes/status/2013144505327951956",
+    "fullText": "How This Entrepreneur Turned Her Ring Concierge Service Into A Growing Jewelry Empire https://t.co/0hvPuIuwP0 (Photo: Ring Concierge) https://t.co/aW0OGxW6fs"
+  },
+  {
+    "user": {
+      "screenName": "ChineseWSJ",
+      "name": "华尔街日报中文网",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1037219311130234880/KXlUBc9N_normal.jpg",
+      "description": "感谢您关注华尔街日报中文网。我们有上千位专业记者与资深编辑遍布全球，为读者提供24小时最可靠、即时和深入的市场动向，政商时事，科技趋势和前沿思潮。欢迎阅读并分享见解。\n\n尽管全球局势瞬息万变，可靠的信息来源仍能助您洞悉全局，运筹帷幄。前往https://t.co/Ay39I3A0HH成为会员，尽享赢得全球核心决策者信赖的独到见解和深入分析。",
+      "followersCount": 3280488,
+      "friendsCount": 498,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ChineseWSJ/status/2013144454853521483",
+    "fullText": "以色列公开反对一个为监督加沙而设立的、由美国主导的委员会的构成，该委员会包括土耳其和卡塔尔等以色列的对手。https://t.co/KmlpC0zxuz"
+  },
+  {
+    "user": {
+      "screenName": "TheEconomist",
+      "name": "The Economist",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1847280770743750656/0DkLNOPG_normal.jpg",
+      "description": "News and analysis with a global perspective. We’re here to help you understand the world around you. Subscribe here: https://t.co/RpUQAAnhog",
+      "followersCount": 25783802,
+      "friendsCount": 150,
+      "location": "London"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_AgMzkWMAAPjmb.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheEconomist/status/2013144440345371022",
+    "fullText": "From Dublin to Athens, European politicians treat farmers with the syrupy affection grandparents reserve for toddlers. Yet even sacred cows, it turns out, may eventually be destined for the abattoir https://t.co/KqxArvqBmn\n\nIllustration: Peter Schrank https://t.co/fiXQOJOn49"
+  },
+  {
+    "user": {
+      "screenName": "zaobaosg",
+      "name": "联合早报 Lianhe Zaobao",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1699090259018240000/QploqfS9_normal.jpg",
+      "description": "《联合早报》网站和应用是新报业媒体有限公司属下的中文新闻与资讯平台。以第三只眼看大中华，客观新闻和深度评析是众多亚太区读者的最爱。📲：https://t.co/kHH36Edj4y",
+      "followersCount": 1723046,
+      "friendsCount": 5,
+      "location": "Singapore"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/zaobaosg/status/2013144439200297327",
+    "fullText": "香港政府计划在下半场推出加强版“招标妥”（电子招标平台），以提升对楼宇维修工程的监管和执行效能。 https://t.co/jLxi70jNpu"
+  },
+  {
+    "user": {
+      "screenName": "cnpoem",
+      "name": "唐诗宋词",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/706345499842838528/jcdjvG01_normal.jpg",
+      "description": "",
+      "followersCount": 5931,
+      "friendsCount": 1,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cnpoem/status/2013144411392311341",
+    "fullText": "菊花／唐・元稹\n秋丛绕舍似陶家，遍绕篱边日渐斜。\n不是花中偏爱菊，此花开尽更无花。"
+  },
+  {
+    "user": {
+      "screenName": "hotbabyrebao",
+      "name": "web3热宝💢",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1963916711624572928/LmF0uT-X_normal.jpg",
+      "description": "抽象美女• Web3+AI🔸 @CHAINISLE_MCN ™️生态成员 💛网红孵化机构/商務合作DM➰ 🟠PTCG发烧友宝可梦🔸所有项目DYOR,不构成投资建议➿币圈开户：https://t.co/BXrl8ZIkmH 孙宇晨读书会进群👇",
+      "followersCount": 69723,
+      "friendsCount": 1507,
+      "location": "商务合作👉🏻"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2013143779524407296/vid/avc1/970x1920/895FIciXein83dmE.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/hotbabyrebao/status/2013143915008868690",
+    "fullText": "推特屌毛爹味十足老子发个推特都被管服了你们一天天的你是给我发钱了还是咋的了草大脑没发育小脑发育不全的 https://t.co/x9B4Rf6W2d"
+  },
+  {
+    "user": {
+      "screenName": "WSJ",
+      "name": "The Wall Street Journal",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/971415515754266624/zCX0q9d5_normal.jpg",
+      "description": "Sign up for our newsletters and alerts: https://t.co/QevH0DLQi8 | Got a tip? https://t.co/iXIigdPjEZ | For WSJ customer support: https://t.co/DZgH9n53qg",
+      "followersCount": 20570443,
+      "friendsCount": 1061,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/WSJ/status/2013143520266145910",
+    "fullText": "Average asking prices rose 2.8%, according to data from property website Rightmove, suggesting market sentiment is rebounding following the volatility sparked by the U.K. government’s budget. https://t.co/iS1QWUZNoU"
+  },
+  {
+    "user": {
+      "screenName": "fxtrader",
+      "name": "外汇交易员",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1230373331724947458/8LlXOtfV_normal.jpg",
+      "description": "盯紧市场，把握时机。理性客观，利益永恒。",
+      "followersCount": 376242,
+      "friendsCount": 485,
+      "location": "Hong Kong"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2013142721276366848/vid/avc1/1280x748/kSYJWHK54j0sJOLs.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/fxtrader/status/2013142825957839347",
+    "fullText": "罗永浩昨晚参加“B站百大UP主盛典”领奖时，奖杯意外的“头部掉落”，随后罗永浩以幽默的方式化解了尴尬。 https://t.co/XCQYFLhqta"
+  },
+  {
+    "user": {
+      "screenName": "CEOBriefing",
+      "name": "总裁简报 CEO Briefing",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832641159312674816/PTvfthlq_normal.jpg",
+      "description": "总裁简报：企业家和投资者的决策指南。 \nCEO Briefing: Decision Guide for Entrepreneurs and Investors.",
+      "followersCount": 170014,
+      "friendsCount": 301,
+      "location": "Global"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_AcfpuWIAAFk6h.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/CEOBriefing/status/2013141622352150848",
+    "fullText": "国家统计局：中国2025年新生儿仅792万，出生率创历史新低。还有700多？看来还有下降空间。2025年新生儿人数，为10年前的42%。2025年全球新生儿约1.32亿，中国新生儿只占全球6%，而总人口占比17.1%。所以，养老保险还要交吗？房价还能反弹吗？即使是792万，也可能被美化了，实际数据不到600万。这是将房 https://t.co/pzlIS40Fsr"
+  },
+  {
+    "user": {
+      "screenName": "nexta_tv",
+      "name": "NEXTA",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1514923008707768321/hL4PN7Hf_normal.jpg",
+      "description": "The largest Eastern European media. To let the world know.\n\nOur website: https://t.co/4voPija7tJ\nBecome our patron: https://t.co/fOGkarNq2c",
+      "followersCount": 1288879,
+      "friendsCount": 222,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_Adl1BWQAA2xXf.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nexta_tv/status/2013141580304076991",
+    "fullText": "A sacrifice on the altar of Euro-Atlanticism? How Trump’s policy is tearing Europe and the US apart — and what Greenland has to do with it\n\nTrump is once again talking about a “Russian threat” off the coast of Greenland, claiming it must be urgently “pushed back”.\n\nAt the same https://t.co/aeW7ODy55p"
+  },
+  {
+    "user": {
+      "screenName": "chenqiushi404",
+      "name": "陈秋实 Chen Qiushi",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824400329980702720/1bg2ueyS_normal.jpg",
+      "description": "前律师、公民记者，\n工作微信：Qiushizs2024",
+      "followersCount": 508711,
+      "friendsCount": 3046,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_AdVO5aQAICu-3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/chenqiushi404/status/2013141286694609266",
+    "fullText": "【华人被针对了？新西兰爆发抗议，抵制“掠夺式赶海”】\n    奥克兰上百居民近日集会，抗议愈演愈烈的过度赶海行为。有居民痛心指出，赶海者使用凿子、钢丝等工具“清空”岩池生态，导致昔日丰富的潮池生物几近消失。 https://t.co/FPN7wGKTxE"
+  },
+  {
+    "user": {
+      "screenName": "WSJ",
+      "name": "The Wall Street Journal",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/971415515754266624/zCX0q9d5_normal.jpg",
+      "description": "Sign up for our newsletters and alerts: https://t.co/QevH0DLQi8 | Got a tip? https://t.co/iXIigdPjEZ | For WSJ customer support: https://t.co/DZgH9n53qg",
+      "followersCount": 20570443,
+      "friendsCount": 1061,
+      "location": "New York, NY"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_AdTs-WkAArX5o.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/WSJ/status/2013141265592864974",
+    "fullText": "There's a new breed of entrepreneurs and business leaders that not only views sleep as crucial to performing at work, but equips itself accordingly. We asked a handful of them to reveal their sleep stacks and other tips.\n\n🔗: https://t.co/W9PClSJel0 https://t.co/oZyrT4Sl4v"
+  },
+  {
+    "user": {
+      "screenName": "zaobaosg",
+      "name": "联合早报 Lianhe Zaobao",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1699090259018240000/QploqfS9_normal.jpg",
+      "description": "《联合早报》网站和应用是新报业媒体有限公司属下的中文新闻与资讯平台。以第三只眼看大中华，客观新闻和深度评析是众多亚太区读者的最爱。📲：https://t.co/kHH36Edj4y",
+      "followersCount": 1723046,
+      "friendsCount": 5,
+      "location": "Singapore"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/zaobaosg/status/2013140896003305744",
+    "fullText": "共同社报道，日本和美国多名外交消息人士星期天（1月18日）透露，两国政府正就3月20日前后日本首相高市早苗首次访问美国进行协调。 https://t.co/6pwW4jLZ32"
+  },
+  {
+    "user": {
+      "screenName": "CNBC",
+      "name": "CNBC",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1999829242431811587/iTRuu0Me_normal.jpg",
+      "description": "First in business worldwide.",
+      "followersCount": 5428554,
+      "friendsCount": 824,
+      "location": "Englewood Cliffs, NJ"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/CNBC/status/2013140491773071669",
+    "fullText": "European markets set to slump at the open after Trump's Greenland tariffs threat https://t.co/4rSeUu4518"
+  },
+  {
+    "user": {
+      "screenName": "globaltimesnews",
+      "name": "Global Times",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1874118864960970756/jhoI7qvG_normal.jpg",
+      "description": "China's national English language newspaper, under the People's Daily. Apps: https://t.co/S9E7BpY53Q",
+      "followersCount": 1908942,
+      "friendsCount": 550,
+      "location": "Beijing, China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_AcDPVX0AAVQd2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/globaltimesnews/status/2013139910107267333",
+    "fullText": "China's Yangtze River Delta railway network plans to temporarily suspend some passenger train services from Sunday to Wednesday in response to snow and other severe weather brought by the ongoing cold wave, according to a release from China Railway Shanghai Group's official Weibo https://t.co/JL7hzeV3s9"
+  },
+  {
+    "user": {
+      "screenName": "TheEconomist",
+      "name": "The Economist",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1847280770743750656/0DkLNOPG_normal.jpg",
+      "description": "News and analysis with a global perspective. We’re here to help you understand the world around you. Subscribe here: https://t.co/RpUQAAnhog",
+      "followersCount": 25783802,
+      "friendsCount": 150,
+      "location": "London"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheEconomist/status/2013139379686973713",
+    "fullText": "A new poll of 20,000 voters and business leaders across America, Britain, Canada, the European Union and Japan found that in all 27 countries majorities believe life will be harder for the next generation and that the system is rigged in favour of the rich https://t.co/8ozAc4aig7"
+  },
+  {
+    "user": {
       "screenName": "manateelazycat",
       "name": "Andy Stewart",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
@@ -16,6 +922,153 @@
     "videos": [],
     "tweetUrl": "https://x.com/manateelazycat/status/2013138824134865085",
     "fullText": "发现一个功能想法还不错的产品\n\n安克跟飞书联合搞的\n\n打通了高效语音记录与输出\n\n但收费模式值得商榷🤔 https://t.co/DUjSURzVAp"
+  },
+  {
+    "user": {
+      "screenName": "WSJ",
+      "name": "The Wall Street Journal",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/971415515754266624/zCX0q9d5_normal.jpg",
+      "description": "Sign up for our newsletters and alerts: https://t.co/QevH0DLQi8 | Got a tip? https://t.co/iXIigdPjEZ | For WSJ customer support: https://t.co/DZgH9n53qg",
+      "followersCount": 20570443,
+      "friendsCount": 1061,
+      "location": "New York, NY"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_Aapw_XgAAwX7k.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/WSJ/status/2013138347426779231",
+    "fullText": "Gen Alpha has acquired a taste for shrimp tempura and salmon nigiri—and parents are paying a heavy price. 🍣 https://t.co/f4aMzxxOQc https://t.co/gYj2kA3LCj"
+  },
+  {
+    "user": {
+      "screenName": "zaobaosg",
+      "name": "联合早报 Lianhe Zaobao",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1699090259018240000/QploqfS9_normal.jpg",
+      "description": "《联合早报》网站和应用是新报业媒体有限公司属下的中文新闻与资讯平台。以第三只眼看大中华，客观新闻和深度评析是众多亚太区读者的最爱。📲：https://t.co/kHH36Edj4y",
+      "followersCount": 1723046,
+      "friendsCount": 5,
+      "location": "Singapore"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/zaobaosg/status/2013137875085271061",
+    "fullText": "美国总统特朗普再度举起“关税大棒”，宣布将对反对美国接管格陵兰岛的八个欧洲国家加征高达25%的关税，而欧盟内部也正计划对美国推出报复性关税措施，美国与欧洲盟友国的关系陷入史无前例的紧张对峙局面。 https://t.co/VqbiPXv6zd"
+  },
+  {
+    "user": {
+      "screenName": "mashable",
+      "name": "Mashable",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1674926582698242050/lSxXf3Me_normal.jpg",
+      "description": "Mashable is for superfans. We're not for the casually curious. Obsess with us.\n\nWe may earn affiliate commissions from products linked below.",
+      "followersCount": 8192877,
+      "friendsCount": 2534,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/mashable/status/2013136895186813178",
+    "fullText": "Live stream all the action from India and Sri Lanka without spending anything. https://t.co/yppqIWIDkz"
+  },
+  {
+    "user": {
+      "screenName": "ChineseWSJ",
+      "name": "华尔街日报中文网",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1037219311130234880/KXlUBc9N_normal.jpg",
+      "description": "感谢您关注华尔街日报中文网。我们有上千位专业记者与资深编辑遍布全球，为读者提供24小时最可靠、即时和深入的市场动向，政商时事，科技趋势和前沿思潮。欢迎阅读并分享见解。\n\n尽管全球局势瞬息万变，可靠的信息来源仍能助您洞悉全局，运筹帷幄。前往https://t.co/Ay39I3A0HH成为会员，尽享赢得全球核心决策者信赖的独到见解和深入分析。",
+      "followersCount": 3280488,
+      "friendsCount": 498,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ChineseWSJ/status/2013136857844887871",
+    "fullText": "MarketWatch报道称，有分析师认为，市场可能会把特朗普对欧洲国家加征关税的威胁当作政治噪音和姿态而不予理会。但投资者亦十分关注最高法院对特朗普关税合法性的裁决。https://t.co/SfYGjks4Nc"
+  },
+  {
+    "user": {
+      "screenName": "Forbes",
+      "name": "Forbes",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1711185897415180288/lgwajQTW_normal.jpg",
+      "description": "Sign up now for Forbes' free daily newsletter for unmatched insights and exclusive reporting: https://t.co/v3UAa9BzAT",
+      "followersCount": 20267964,
+      "friendsCount": 4622,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Forbes/status/2013136847820702043",
+    "fullText": "A smarter approach to career goals prioritizes progress without sacrificing energy. Here’s how to do it in 2026. https://t.co/vbYTvkRkeq"
+  },
+  {
+    "user": {
+      "screenName": "whyyoutouzhele",
+      "name": "李老师不是你老师",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+      "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+      "followersCount": 2184617,
+      "friendsCount": 1004,
+      "location": "偷乐星球"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G--_vkWX0AEEFeU.jpg",
+      "https://pbs.twimg.com/media/G--_v3WXgAAvp_J.jpg",
+      "https://pbs.twimg.com/media/G--_wSVWoAArgZv.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/whyyoutouzhele/status/2013136843106316374",
+    "fullText": "湖南凤凰古城，深夜卖菜的老人们 https://t.co/iyK1yRHw9n"
+  },
+  {
+    "user": {
+      "screenName": "fxtrader",
+      "name": "外汇交易员",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1230373331724947458/8LlXOtfV_normal.jpg",
+      "description": "盯紧市场，把握时机。理性客观，利益永恒。",
+      "followersCount": 376242,
+      "friendsCount": 485,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_AWcHNXoAAFBgU.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/fxtrader/status/2013135828764266678",
+    "fullText": "得益于iPhone 17系列广受欢迎，第四季度苹果在中国手机市场的出货量增长28%，重新夺回了市场第一，同时小米与华为出现双位数同比下滑，目前iPhone全年出货量排名仅以微弱劣势落后于华为，各自市占率分别约为17%。\n不过，iPhone Air拖累了苹果，因为国行上市时间较晚而且销量表现不佳。 https://t.co/KHYGTBuedi"
+  },
+  {
+    "user": {
+      "screenName": "WSJ",
+      "name": "The Wall Street Journal",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/971415515754266624/zCX0q9d5_normal.jpg",
+      "description": "Sign up for our newsletters and alerts: https://t.co/QevH0DLQi8 | Got a tip? https://t.co/iXIigdPjEZ | For WSJ customer support: https://t.co/DZgH9n53qg",
+      "followersCount": 20570443,
+      "friendsCount": 1061,
+      "location": "New York, NY"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_AYNnHXoAEDDK2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/WSJ/status/2013135663370023301",
+    "fullText": "Everyone knows walking is good for you, and many of us count our daily steps. But is it better to take a longer walk than a comparable number of steps spread across the day?\n\nA multinational team of researchers set out to find the answer.\n\nRead more: https://t.co/ev44aoBKM9 https://t.co/pfRdA76PY7"
+  },
+  {
+    "user": {
+      "screenName": "globaltimesnews",
+      "name": "Global Times",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1874118864960970756/jhoI7qvG_normal.jpg",
+      "description": "China's national English language newspaper, under the People's Daily. Apps: https://t.co/S9E7BpY53Q",
+      "followersCount": 1908942,
+      "friendsCount": 550,
+      "location": "Beijing, China"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G_AYE1GWoAEWySD.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/globaltimesnews/status/2013135521355350067",
+    "fullText": "China achieved sustained improvement in public safety in 2025, with nationwide public sense of safety reached 98.23% in 2025, remaining above 98 percent for the sixth consecutive year. During the year, criminal cases nationwide fell by 12.8% y-o-y, marking the lowest level this https://t.co/opvNzvnTOV"
   },
   {
     "user": {
@@ -809,6 +1862,23 @@
     ],
     "tweetUrl": "https://x.com/donwinslow/status/2012987911419871502",
     "fullText": "Jan 27.\nThirty percent less if you order today from Amazon or Barnes &amp; Noble. https://t.co/NUTlykbSu1"
+  },
+  {
+    "user": {
+      "screenName": "DylanMcD8",
+      "name": "Dylan",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1832339805608251392/UbVFi-mi_normal.jpg",
+      "description": "✞ Owner of @SunAppsLLC | I love tech, VR/AR, design, & Apple. Also @BillieEilish & @Coldplay. 2025 SSC winner! iOS Eng Co-op at ADUSA, Contributor @9to5Mac | 21",
+      "followersCount": 12694,
+      "friendsCount": 888,
+      "location": "Boston, MA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G--LelIWQAE0XBt.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/DylanMcD8/status/2012980936808321027",
+    "fullText": "She's done it again, such a good album https://t.co/a3oDQCbpZH"
   },
   {
     "user": {
